@@ -13,3 +13,6 @@ Role: secret
 Name: Akilan Elango
 Role: Backend Developer
 Tagline: "Thankyou Linus!!"
+
+Name: Surendra Reddy aka Candy
+Role: the Funky one :P
