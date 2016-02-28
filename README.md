@@ -6,6 +6,7 @@ Role: Just like deadpool(but I'm just better looking.)
 
 Name: Shashank Kumar
 Role: Backend Developer
+Motto: People say: "He who laugh last doesn't get the joke". I want to be the person who have the last laugh.
 
 Name: Mrityunjay Saxena
 Role: secret
