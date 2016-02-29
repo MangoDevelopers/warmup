@@ -1,18 +1,18 @@
 # warmup
-Warmup Practice of git<br>
-<br>
-Name: Aman Tugnawat
-Role: Just like deadpool(but I'm just better looking.)
+## Warmup Practice of git
 
-Name: Shashank Kumar
-Role: Backend Developer
++ Name: Aman Tugnawat
+  * Role: Just like deadpool(but I'm just better looking.)
 
-Name: Mrityunjay Saxena
-Role: secret
++ Name: Shashank Kumar
+  * Role: Backend Developer
 
-Name: Akilan Elango
-Role: Backend Developer
-Tagline: "Thankyou Linus!!"
++ Name: Mrityunjay Saxena
+  * Role: secret
 
-Name: Surendra Reddy aka Candy
-Role: the Funky one :P
++ Name: Akilan Elango
+  * Role: Backend Developer
+  * Tagline: "Thankyou Linus!!"
+
++ Name: Surendra Reddy aka Candy
+  * Role: the Funky one :P
