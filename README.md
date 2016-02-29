@@ -16,3 +16,6 @@ Tagline: "Thankyou Linus!!"
 
 Name: Surendra Reddy aka Candy
 Role: the Funky one :P
+
+Name: Sanskar Modi
+Role: 0110001101101111011001000110010101110010
